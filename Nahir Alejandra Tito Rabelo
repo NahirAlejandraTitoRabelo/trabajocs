@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <title>Nahir Alejandra Tito Rabelo</title>
+    <style>
+  .cuadro {
+    background-color: #ffffff;
+    border: 2px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 25px;
+    max-width: 600px;
+    margin: 40px auto;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  h1 {
+    font-family: 'Lilita One', cursive;
+    color: #5a2a83;
+  }
+  body {
+    background-color: #fff8f0;
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+  }
+</style><style>
+  .cuadro {
+    background-color: #ffffff;
+    border: 2px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 25px;
+    max-width: 600px;
+    margin: 40px auto;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+
+  h1 {
+    font-family: 'Lilita One', cursive;
+    color: #5a2a83;
+  }
+
+  body {
+    background-color: #fff8f0;
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+  }
+</style>
+    <style>
+  h1 {
+    font-family: 'Lilita One', cursive;
+  }
+
+  body {
+    font-family: 'Segoe UI', sans-serif; /* para el resto del texto */
+    background-color: #fff8f0;
+    color: #333;
+  }
+</style>
+    <style>
+    body {
+      background-color: #fff8f0; /* Color de fondo suave */
+      font-family: 'Segoe UI', sans-serif; /* Fuente más moderna */
+      color: #333333; /* Color del texto */
+      padding: 20px;
+    }
+
+    h1, h2, h3 {
+      color: #5a2a83; /* Moradito lindo para los títulos */
+    }
+
+    a {
+      color: #0077cc; /* Color para enlaces */
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+  
+  </head>
+  <body>
+    <main>
+      <h1>Nahir Alejandra Tito Rabelo</h1>
+<p>¡Hola! Soy Nahir, me encanta el diseño, programar y compartir lo que aprendo. Este sitio web es para que me conozcas un poco más: lo que me gusta, lo que hago y lo que quiero construir</p>
+      <section>
+        <h2>ACERCA DE MÍ</h2>
+        <h3>Lo que me hace feliz</h3>
+        <form>
+  <p>¿Coincidimos en algo? Marca tus casillas 📝</p>
+
+  <label>
+    <input type="checkbox" name="hobby" value="musica">
+    🎧 Escuchar música de todo tipo (rock, jazz, reggaetón, salsa...)
+  </label><br>
+
+  <label>
+    <input type="checkbox" name="hobby" value="aprender">
+    📚 Me encanta aprender cosas nuevas
+  </label><br>
+
+  <label>
+    <input type="checkbox" name="hobby" value="bailar">
+    💃  Bailar
+  </label><br>
+
+  <label>
+    <input type="checkbox" name="hobby" value="fe">
+    🙏 Tengo fe o busco algo más profundo en la vida
+  </label><br>
+
+  <label>
+    <input type="checkbox" name="hobby" value="metas">
+    🎯 Tengo metas claras y muchos sueños por cumplir
+  </label><br>
+<label>
+  <input type="checkbox" name="hobby" value="animales">
+  🐱 Amo a los animales (Mi gata, MORA)
+</label><br>
+
+<label>
+  <input type="checkbox" name="hobby" value="animales">
+  👨‍👩‍👧‍👦 Mi familia 
+</label><br>
+
+<label>
+  <input type="checkbox" name="hobby" value="peliculas">
+  🎬 Mirar películas (terror, romcoms, comedia...)
+</label><br>
+
+<label>
+  <input type="checkbox" name="hobby" value="amistad">
+  👫 Pasar tiempo con mis amigos, hacer planes y compartir momentos lindos
+</label><br>
+
+</form>
+        <h2>VIDA UNIVERSITARIA</h2>
+        <section>
+          <h3>PROFESORES</h3>
+        <p> Fundamentos de Informática:<a href="https://www.linkedin.com/in/ecuadrosv/">Ernesto Cuadros Vargas</a> </p>
+        <a ><img src="https://media.licdn.com/dms/image/v2/C4E03AQEoeFwj5MxsEA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1591483360287?e=2147483647&v=beta&t=W0mU1xLYiM79JA1WyXGR5LwM95AyU4x-kzZSuVmyHOg" alt="Ernesto Cuadros Vargas." style="width: 210px; border-radius: 8px"></a>
+        <h3> COMPAÑEROS</h3>
+        <ol>
+          <li>
+      <a href="https://alessandrasofiamelellazapata.github.io/mi-web-personal/">Alessandra Melella Sofía Zapata</a> </p> </li>
+          <li>
+      <a href="https://ivan-alfredo-guevara-luglio.github.io/trabajo-ucsp/">Ivan Alfredo Guevara Luglio</a> </p> </li>
+          
+        </ol>
+        <figure>
+          <img src="https://media-public.canva.com/L7JRU/MADDGmL7JRU/2/tl.png" style="width: 350px">
+          <figcaption>Junto a mis  <em>compañeros</em> : aprendiendo y avanzando juntos. </figcaption>  
+        </figure>
+        <h3>MI UNIVERSIDAD:</h3>
+        <section>
+          <h4>¿Qué la hace tan especial?</h4>
+        <p>Actualmente curso el segundo semestre en la Universidad Católica San Pablo, una universidad comprometida con la excelencia académica y los valores éticos. Hay muchas cosas que valoro de mi universidad y que me motivan cada día a seguir adelante:</p>
+        <ul>
+          <li>Formación con valores cristianos</li>
+          <li>Excelencia académica</li>
+          <li>Infraestructura moderna y tecnológica</li>
+          <li>Identidad y misión clara</li>
+          <li>Vida universitaria activa</li>
+          <li>Ambiente cálido y humano</li>
+          <li>Fomento de la investigación y la innovación</li>
+          <li>Conexión con la realidad social</li>
+        </ul>
+       
+          <figure>
+  <a href="https://ucsp.edu.pe/">
+    <img src="https://encuentro.pe/wp-content/uploads/2024/12/Campus-UCSP-2-1024x683.jpg" style="width: 450px; border-radius: 8px">
+  </a>
+  <figcaption>Un rincón del campus de la <strong>UCSP</strong>.</figcaption>  
+</figure>
+     
+        </form>
+      </section>
+    </main>
+  </body>
+</html>
